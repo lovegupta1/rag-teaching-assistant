@@ -1,0 +1,7 @@
+config.py
+videos/
+audio/
+data/embeddings.joblib
+__pycache__/
+*.mp4
+*.mp3
